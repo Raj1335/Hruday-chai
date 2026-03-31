@@ -1,0 +1,24 @@
+{
+  "name": "Chai POS & Digital Khata",
+  "short_name": "ChaiPOS",
+  "description": "Mobile-first POS and Business Management for Tea Shops",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f5",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
